@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1629055048 source:x:\programozás\programozás\inverter\mouseinverter\main.cpp
+	<windows.h>
+	<winuser.h>
+	<iostream>
+
